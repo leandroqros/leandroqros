@@ -2,7 +2,7 @@
 <p>Soy programador backend con conocimientos en:</p>
 
 ### Lenguajes 💻
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="SAP ABAP" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="SWIFT UI" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="25px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="SAP ABAP" width="58px"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="SWIFT UI" width="29px"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="25px"/>
 
 ### Estudiando 📓
 <img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Pyton" width="80px"/>
