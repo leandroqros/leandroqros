@@ -1,9 +1,18 @@
-### Hi there 👋
+## Hola tú 👋🏾
+<p>Soy programador backend con conocimientos en:</p>
+
+### Lenguajes 💻
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="SAP ABAP" width="50px"/> <img src="https://cdn.worldvectorlogo.com/logos/swift-15.svg" alt="SWIFT UI" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25px"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="25px"/>
+
+### Estudiando 📓
+<img src="https://cdn.worldvectorlogo.com/logos/python-6.svg" alt="Pyton" width="80px"/>
+
+### Extras 🫂
+<li>Programacion Orientada a Objetos</li>
+<li>Metodologia Scrum</li>
 
 <!--
 **leandroqros/leandroqros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
